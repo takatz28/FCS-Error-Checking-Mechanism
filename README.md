@@ -1,7 +1,10 @@
 # Frame Check Sequence Error Checking Mechanism
 This app is a MATLAB-based app implemented based on the concept of cyclic redundancy check (CRC).
 
-### Features
+#### Requirements
+* MATLAB R2019a or later
+
+#### Features
 * *Generate*
   *  Allows the user to enter the input sequence and polynomial. The app then outputs the FCS bits and the resultant codeword.
 * *Receive*
