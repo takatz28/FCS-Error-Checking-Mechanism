@@ -1,2 +1,5 @@
-# FCS-Error-Checking-Mechanism
-MATLAB app for performing cyclic redundancy check simulations
+# Frame Check Sequence Error Checking Mechanism
+=====
+This app is a MATLAB-based app implemented based on the concept of cyclic redundancy check (CRC)
+
+### Features
